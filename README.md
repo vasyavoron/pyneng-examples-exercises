@@ -4,8 +4,6 @@
 
 Все примеры и задания были проверены на Python 3.7 и 3.8.
 
-Новая строка.
-
 ## Как создать свой репозиторий для выполнения заданий
 
 > [Подробнее о работе с Git и Github в книге](https://pyneng.readthedocs.io/ru/latest/book/02_git_github/index.html)
